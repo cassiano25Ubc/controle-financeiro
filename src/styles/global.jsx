@@ -1,10 +1,12 @@
 import{createGlobalStyle} from"styled-components"
 const Global = createGlobalStyle`
-
-    body){
-    margin:0
+*{
+margin:0
     padding:0
-    font-family:"poppins",sans-serif
+}
+body {
+    
+    font-family:"Poppins",Sans-Serif
     background-color:#f2f2f2
 }
 `
