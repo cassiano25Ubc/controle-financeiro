@@ -6,8 +6,10 @@ export const Container = styled.div`
     text-align: center;
     background: teal;
     `;    
-    export const Header = styled.h1``;
+    export const Header = styled.h1`
+    color:#ffffff;
+    font-family:'Poppins', sans-serif; `;
     export const Title = styled.div`
     padding-top:20px
-    // color: #fff;
+    // color: #ffffff;
 `;
